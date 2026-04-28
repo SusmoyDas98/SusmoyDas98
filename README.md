@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm $$Susmoy$$</h1>
-<h3 align="center">🎓 Computer Science and Engineering Student | Aspiring Full-Stack Developer | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Web+Applications;Exploring+System+Design;Learning+Machine+Learning;Always+Improving+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi👋+I'm+Susmoy;🎓Computer+Science+and+Engineering+Student;Building+Web+Applications💻;🤖ML+Enthusiast;Always+Improving+🚀" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SusmoyDas98&label=Profile%20Views&color=0e75b6&style=flat" />
-</p> -->
-
-
 
 ---
 
