@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Susmoy</h1>
+<h1 align="center">Hi 👋, I'm $$Susmoy$$</h1>
 <h3 align="center">🎓 Computer Science and Engineering Student | Aspiring Full-Stack Developer | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Web+Applications;Exploring+System+Design;Learning+Machine+Learning;Always+Improving+🚀" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SusmoyDas98&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
@@ -40,30 +40,47 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SusmoyDas98&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoyDas98&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusmoyDas98&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
+
+
+## 📊 GitHub Analytics
+
+<!-- Activity Graph -->
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SusmoyDas98&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SusmoyDas98&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=SusmoyDas98&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- 50/50 Row: Stats + Top Languages -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SusmoyDas98&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoyDas98&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
+
+
+
+---
+
 
 ## 🏆 Achievements
 
@@ -71,20 +88,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SusmoyDas98&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p>
 
----
-
-## 📌 Currently Working On
-
-- 🔭 Building full-stack web applications
-- 🧠 Learning system design fundamentals
-- 🤖 Exploring machine learning with Python
-- ⚙️ Improving problem-solving & DSA skills
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/susmoy-das-89769134a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
-</p>
