@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi👋+I'm+Susmoy;🎓Computer+Science+and+Engineering+Student;Building+Web+Applications💻;🤖ML+Enthusiast;Always+Improving+🚀" />
 </p>
@@ -27,31 +26,19 @@
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SusmoyDas98&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=SusmoyDas98&theme=tokyonight&hide_border=true" />
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoyDas98&layout=compact&theme=tokyonight&hide_border=true" /> -->
-</p>
-
-
 ---
-##  Contribution Activity
+
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-
-
-
-
 ---
-
 
 ## 🏆 Achievements
 
@@ -59,6 +46,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SusmoyDas98&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p>
 
-
 ---
-
