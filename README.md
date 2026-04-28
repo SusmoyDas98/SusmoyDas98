@@ -9,15 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=SusmoyDas98&label=Profile%20Views&color=0e75b6&style=flat" />
 </p> -->
 
----
 
-## 🌟 About Me
-
-- 🎓 Computer Science student at **BRAC University**
-- 💡 Interested in how systems and software work under the hood
-- 🛠️ I enjoy building real-world projects to learn by doing
-- 🚧 Currently focusing on **Full-Stack Web Development**, **System Design basics**, and **Machine Learning with Python**
-- 📚 Always learning and improving one project at a time
 
 ---
 
@@ -40,6 +32,21 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## 📊 GitHub Analytics
+
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SusmoyDas98&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=SusmoyDas98&theme=tokyonight&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoyDas98&layout=compact&theme=tokyonight&hide_border=true" /> -->
+</p>
+
+
+---
 ##  Contribution Activity
 
 <p align="center">
@@ -48,34 +55,6 @@
 
 
 
-## 📊 GitHub Analytics
-
-<!-- Activity Graph -->
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SusmoyDas98&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SusmoyDas98&theme=tokyo-night&hide_border=true" />
-</p>
-
-<!-- Streak -->
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=SusmoyDas98&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- 50/50 Row: Stats + Top Languages -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SusmoyDas98&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoyDas98&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 
 
