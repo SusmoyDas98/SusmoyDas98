@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# $$Tech$$ $$Stack$$
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+#  $$GitHub$$ $$Analytics$$
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SusmoyDas98&theme=tokyonight" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+# $$Contribution$$ $$Activity$$
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 🏆 Achievements
+# $$Achievements$$
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SusmoyDas98&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
