@@ -5,23 +5,39 @@
 ---
 
 # $$Tech$$ $$Stack$$
+<table align="center" width="90%">
+  <tr>
+  <td><b>🤖 AI / ML & LLM</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" />
+  </td>
+</tr>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<tr>
+  <td><b>📊 Data Science & Visualization</b></td>
+  <td>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,jupyter" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </td>
+</tr>
 
-### 🌐 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<tr>
+  <td><b>💻 Web Development</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flask" />
+  </td>
+</tr>
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<tr>
+  <td><b>🛠️ Tools</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
+  </td>
+</tr>
+</table>
 ---
 
 #  $$GitHub$$ $$Analytics$$
