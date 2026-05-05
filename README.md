@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;HI+👋+I'M+SUSMOY;CSE+STUDENT+//+WEB+DEVELOPER;ML+ENTHUSIAST+//+BUILDING+SMART+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=HI+👋+I'M+SUSMOY;CSE+STUDENT;WEB+DEVELOPMENT+and+ML+ENTHUSIAST" />
 </p>
 
 <p align="center">
