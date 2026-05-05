@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:0066ff&height=4&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:0066ff&height=8&section=header" />
 </p>
 
 <h2 align="center" style="margin: 0;"><i>Tech Stack</i></h2>
