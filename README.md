@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=HI+👋+I'M+SUSMOY;CSE+STUDENT;WEB+DEVELOPMENT+and+ML+ENTHUSIAST" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=5B7CFF&center=true&vCenter=true&width=700&lines=HI+👋+I'M+SUSMOY;CSE+STUDENT;WEB+DEVELOPMENT+and+ML+ENTHUSIAST" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:0066ff&height=8&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B7CFF,100:A855F7&height=6&section=header" />
 </p>
 
 <h2 align="center" style="margin: 0;"><i>Tech Stack</i></h2>
